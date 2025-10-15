@@ -1,22 +1,24 @@
-🧩 Add & Search User Management System
+AddSearchUsers
+A full-stack web application to add and search users with secure password storage. Built using Spring Boot for backend and React.js for frontend.
 
-A full-stack web application built with React and Spring Boot that allows users to be added, searched, edited, and deleted with secure password encryption and database persistence.
+🧑‍💻 Add & Search Users — Full Stack Web App
+A full-stack web application to add and search users securely using Spring Boot (Java) and React.js.
+It demonstrates real-time search functionality, password encryption, and seamless frontend-backend integration.
 
 🚀 Features
-
-✅ Add new users with validation
-
+➕ Add new users with details like username, name, and email
 🔍 Search users by name, username, or email
+🔐 Passwords encrypted using BCryptPasswordEncoder
+⚙️ Backend API built with Spring Boot + JPA + MySQL
+💡 Frontend built using React.js (Vite) and Axios
+🌐 CORS enabled for communication between React and Spring Boot
+🧾 Organized service, repository, and controller layers
 
-✏️ Edit & 🗑️ Delete user functionality
-
-🔐 Passwords are securely stored using BCrypt encryption
-
-💾 Fully integrated with a relational database (e.g., MySQL)
-
-🌐 CORS & API tested with Postman
-
-🧠 Clean and modern UI using plain CSS
+🏗️ Tech Stack
+Frontend: React.js, Axios, HTML, CSS
+Backend: Spring Boot, Java, Hibernate (JPA), MySQL
+Security: BCrypt Password Encryption
+Tools: Postman, VS Code, IntelliJ IDEA, Maven
 
 🏗️ Project Structure
 AddSearchTask/
