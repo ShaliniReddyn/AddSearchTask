@@ -60,9 +60,6 @@ spring.jpa.hibernate.ddl-auto=update
 3️⃣ Run the Backend
 mvn spring-boot:run
 
-
-Server runs at 👉 http://localhost:8080
-
 💻 Frontend Setup (React)
 1️⃣ Navigate to frontend folder
 cd frontend
@@ -72,6 +69,3 @@ npm install
 
 3️⃣ Start the frontend
 npm run dev
-
-
-Runs on 👉 http://localhost:5173
